@@ -126,15 +126,6 @@ Frontend + **API REST Node/Express** + **MySQL 8**, orquestado con **Docker Comp
 </tr>
 <tr><td width="50%" valign="top">
 
-### 🎓 [XTART · Campus virtual](https://github.com/Hidekii1/1CFGS-XTART)
-Web institucional + login + dashboard, en equipo con [@Hidekii1](https://github.com/Hidekii1). Desarrollé la **página de la especialización en ciberseguridad**.
-
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-</td>
-<td width="50%" valign="top">
 
 ### ⚡ [Geo's Corp · Web corporativa](https://github.com/RUYA237/Proyecto-2-TRIMESTRE--1-ASIR)
 Sitio multipágina para una start-up tecnológica ficticia, con **HTML5 semántico** y CSS responsive.
