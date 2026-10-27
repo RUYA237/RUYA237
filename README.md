@@ -138,18 +138,6 @@ Sitio multipágina para una start-up tecnológica ficticia, con **HTML5 semánti
 <tr>
 <td colspan="2" valign="top">
 
-### 🧑‍💻 [Mi portfolio](https://ruya237.github.io)
-Web personal hecha a mano con **HTML, CSS y JavaScript**, sin frameworks: terminal animado, filtro de proyectos y diseño responsive.
-
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-</td>
-</tr>
-</table>
-
----
-
 ## 📜 Certificaciones
 
 <p align="center">
