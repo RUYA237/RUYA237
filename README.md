@@ -169,17 +169,6 @@ Web personal hecha a mano con **HTML, CSS y JavaScript**, sin frameworks: termin
 
 ---
 
-## 📈 Actividad
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=RUYA237&theme=radical&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=C9D1D9&dates=8B949E&hide_border=true&locale=es" alt="Racha de contribuciones">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RUYA237&bg_color=0d1117&color=c9d1d9&line=00ff9c&point=ffffff&area=true&area_color=00ff9c&hide_border=true&custom_title=Contribuciones%20de%20los%20%C3%BAltimos%2030%20d%C3%ADas" width="100%" alt="Gráfico de actividad">
-</p>
-
----
 
 ## 🔗 Contacta conmigo
 
