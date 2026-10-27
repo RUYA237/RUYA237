@@ -19,14 +19,14 @@
 
 ## 📌 Sobre mí
 
-- 🎓 Estudio **2º de ASIR** (Administración de Sistemas Informáticos en Red) en **Xtart Alcorcón**, especializándome en **ciberseguridad**.
-- 💼 Hice mis prácticas en **Accenture**, en el área de **Zero Trust Security** (fundamentos de Fortinet y modelo Zero Trust).
-- 🔭 Ahora mismo: proyecto intermodular de 2º — infraestructura de una asesoría con **3 sedes**: firewall con `nftables`, VPN, AD con dos DC, PostgreSQL, monitorización y copias.
-- 🏠 Tengo un **homelab** donde despliego servicios propios (*self-hosting*) con Docker y máquinas virtuales.
-- 🟩 Aprendo seguridad ofensiva resolviendo máquinas en **Hack The Box**.
-- 🌱 Aprendiendo: hardening de Linux, `nftables`, WireGuard, Active Directory avanzado y Python para automatizar.
-- 💬 Pregúntame por: **Linux, Windows Server, Active Directory, VLAN/OSPF y Docker**.
-- 🚴 Fun fact: cuando no estoy delante de una terminal, estoy en la bici.
+-  Estudio **2º de ASIR** (Administración de Sistemas Informáticos en Red) en **Xtart Alcorcón**, especializándome en **ciberseguridad**.
+-  Hice mis prácticas en **Accenture**, en el área de **Zero Trust Security** (fundamentos de Fortinet y modelo Zero Trust).
+-  Ahora mismo: proyecto intermodular de 2º — infraestructura de una asesoría con **3 sedes**: firewall con `nftables`, VPN, AD con dos DC, PostgreSQL, monitorización y copias.
+-  Tengo un **homelab** donde despliego servicios propios (*self-hosting*) con Docker y máquinas virtuales.
+-  Aprendo seguridad ofensiva resolviendo máquinas en **Hack The Box**.
+-  Aprendiendo: hardening de Linux, `nftables`, WireGuard, Active Directory avanzado y Python para automatizar.
+-  Pregúntame por: **Linux, Windows Server, Active Directory, VLAN/OSPF y Docker**.
+-  Fun fact: cuando no estoy delante de una terminal, estoy en la bici.
 
 ## 🧠 Áreas de enfoque
 
@@ -56,32 +56,32 @@
 
 ## 🛠️ Lenguajes y herramientas
 
-### 🖥️ Sistemas operativos
+###  Sistemas operativos
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,redhat,windows&theme=dark" alt="Sistemas operativos">
 </p>
 
-### ⌨️ Scripting y programación
+###  Scripting y programación
 <p align="center">
   <img src="https://skillicons.dev/icons?i=bash,powershell,py,js&theme=dark" alt="Scripting">
 </p>
 
-### 🎨 Frontend
+###  Frontend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Frontend">
 </p>
 
-### ⚙️ Backend y bases de datos
+###  Backend y bases de datos
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mysql&theme=dark" alt="Backend">
 </p>
 
-### 📦 Infraestructura y DevOps
+###  Infraestructura y DevOps
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,nginx,githubactions&theme=dark" alt="Infraestructura">
 </p>
 
-### 🔐 Redes y seguridad
+###  Redes y seguridad
 <p align="center">
   <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer">
   <img src="https://img.shields.io/badge/Active_Directory-003A70?style=for-the-badge&logo=microsoft&logoColor=white" alt="Active Directory">
