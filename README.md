@@ -58,7 +58,7 @@
 
 ###  Sistemas operativos
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows&theme=dark" alt="Sistemas operativos">
+  <img src="https://skillicons.dev/icons?i=linux,windows&theme=dark" alt="Sistemas operativos">
 </p>
 
 ###  Scripting y programación
