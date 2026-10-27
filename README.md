@@ -198,7 +198,3 @@ Web personal hecha a mano con **HTML, CSS y JavaScript**, sin frameworks: termin
     <img alt="Mis contribuciones de GitHub en 3D" src="https://raw.githubusercontent.com/RUYA237/RUYA237/output-3d-contrib/night.svg" width="100%">
   </picture>
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,55:0f3d2e,100:0d1117&height=120&section=footer" width="100%" alt="">
-</p>
