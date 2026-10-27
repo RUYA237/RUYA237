@@ -1,0 +1,16 @@
+[
+  {
+    "type": "normal",
+    "fileName": "day.svg",
+    "backgroundColor": "#ffffff",
+    "foregroundColor": "#00000f",
+    "contribColors": ["#efefef", "#d8e887", "#8cc569", "#47a042", "#1d6a23"]
+  },
+  {
+    "type": "normal",
+    "fileName": "night.svg",
+    "backgroundColor": "#0d1117",
+    "foregroundColor": "#c9d1d9",
+    "contribColors": ["#161b22", "#0e4429", "#006d32", "#26a641", "#00ff9c"]
+  }
+]

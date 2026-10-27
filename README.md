@@ -193,9 +193,9 @@ Web personal hecha a mano con **HTML, CSS y JavaScript**, sin frameworks: termin
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RUYA237/RUYA237/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RUYA237/RUYA237/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man comiéndose mis contribuciones" src="https://raw.githubusercontent.com/RUYA237/RUYA237/output/pacman-contribution-graph-dark.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RUYA237/RUYA237/output-3d-contrib/night.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RUYA237/RUYA237/output-3d-contrib/day.svg">
+    <img alt="Mis contribuciones de GitHub en 3D" src="https://raw.githubusercontent.com/RUYA237/RUYA237/output-3d-contrib/night.svg" width="100%">
   </picture>
 </p>
 
