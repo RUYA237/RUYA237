@@ -78,7 +78,7 @@
 
 ###  Infraestructura y DevOps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,nginx,githubactions&theme=dark" alt="Infraestructura">
+  <img src="https://skillicons.dev/icons?i=docker,nginx,kubernetes&theme=dark" alt="Infraestructura">
 </p>
 
 ###  Redes y seguridad
