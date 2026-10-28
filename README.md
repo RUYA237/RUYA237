@@ -73,7 +73,7 @@
 
 ###  Backend y bases de datos
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql&theme=dark" alt="Backend">
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql&theme=dark" alt="Backend">
 </p>
 
 ###  Infraestructura y DevOps
