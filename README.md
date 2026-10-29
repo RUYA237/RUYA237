@@ -41,19 +41,6 @@
 
 ---
 
-## 📊 Estadísticas y trofeos
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RUYA237&show_icons=true&include_all_commits=true&count_private=true&theme=radical&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&hide_border=true&custom_title=Ra%C3%BAl%20Yag%C3%BCe&locale=es" height="180" alt="Estadísticas de GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUYA237&layout=compact&theme=radical&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9&hide_border=true&locale=es" height="180" alt="Lenguajes más usados">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RUYA237&theme=matrix&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" alt="Trofeos">
-</p>
-
----
-
 ## 🛠️ Lenguajes y herramientas
 
 ###  Sistemas operativos
